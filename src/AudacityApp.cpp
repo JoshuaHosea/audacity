@@ -15,7 +15,7 @@ It handles initialization and termination by subclassing wxApp.
 
 *//*******************************************************************/
 
-
+//made changes 
 #include "AudacityApp.h"
 
 
